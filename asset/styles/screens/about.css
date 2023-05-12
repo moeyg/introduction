@@ -1,0 +1,48 @@
+/* Profile card */
+
+.profileCard {
+  height: 430px;
+}
+
+/* Profile */
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.profile h2 {
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: 'Inter';
+}
+
+.profile li {
+  color: var(--contentsColor);
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.profile li::before {
+  content: '>';
+  margin-right: 5px;
+}
+
+/* Tech Stacks */
+
+.profile .techStacks {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile .techStacks .techStack {
+  display: flex;
+  gap: 50px;
+}
+
+.profile .techStacks .techStack h3 {
+  margin: 10px 0;
+  font-size: 18px;
+  font-family: 'Inter';
+}

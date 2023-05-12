@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'San Francisco';
+  src: url('./sanfranciscodisplay-regular-webfont.woff');
+}
+
+@font-face {
+  font-family: 'CONSOLA';
+  src: url('./CONSOLA.woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./Inter-Bold.woff');
+}

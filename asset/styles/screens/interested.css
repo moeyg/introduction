@@ -1,0 +1,100 @@
+.interested .container {
+  flex-direction: column;
+  gap: 100px;
+}
+
+.interested .container header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.interested .container .interestedContents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+/* Fronted */
+
+.frontend .monitor {
+  width: 400px;
+}
+
+.frontend .description h3 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.frontend .description p {
+  color: var(--contentsColor);
+  line-height: 30px;
+}
+
+.frontend .description p::before {
+  content: '>';
+  margin-right: 10px;
+}
+
+/* Project */
+
+.project .description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.project .description .projectImages {
+  display: flex;
+  gap: 20px;
+}
+
+.project .description .projectImages img {
+  width: 250px;
+}
+
+.description .explanation div:nth-child(2) {
+  margin: 30px 0;
+}
+
+.description .explanation .explanationTitle {
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-family: 'Inter';
+}
+
+.description .explanation a {
+  text-decoration: underline;
+}
+
+.description .explanation ul {
+  list-style: circle;
+  margin-left: 15px;
+}
+
+.description .explanation .explanationContents {
+  font-size: 18px;
+  color: var(--contentsColor);
+  line-height: 30px;
+}
+
+/* top */
+.interested footer .top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: black;
+  font-size: 12px;
+  font-family: 'Inter';
+  background-color: var(--fontColor);
+}

@@ -1,0 +1,13 @@
+@import '../styles/reset.css';
+@import '../styles/variable.css';
+
+/* Font */
+@import '../font/fonts.css';
+
+/* Components */
+@import '../styles/components/navigation.css';
+
+/* Screens */
+@import '../styles/screens/index.css';
+@import '../styles/screens/about.css';
+@import '../styles/screens/interested.css';
