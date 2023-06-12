@@ -1,6 +1,7 @@
 .interested .container {
   flex-direction: column;
   gap: 100px;
+  padding: 0px;
 }
 
 .interested .container header {
@@ -10,11 +11,14 @@
 }
 
 .interested .container .interestedContents {
+  display: inline-block;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 50px;
+  height: 100vh;
+  scroll-snap-align: start;
 }
 
 /* Fronted */
