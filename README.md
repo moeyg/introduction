@@ -25,6 +25,22 @@ JavaScript로 One scroll page scoll을 중점 구현했습니다.
 <br>
 <br>
 
+# Preview
+
+|                         Index                         |
+| :---------------------------------------------------: |
+| <img src="asset/images/gif/index.gif" width="800px"/> |
+
+|                         About                         |
+| :---------------------------------------------------: |
+| <img src="asset/images/gif/about.gif" width="800px"/> |
+
+|                      interested                       |
+| :---------------------------------------------------: |
+| <img src="asset/images/gif/index.gif" width="800px"/> |
+
+<br>
+
 # Issue
 
 JavaScript로 One scroll page scoll을 구현하려면, <br>
