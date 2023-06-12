@@ -151,8 +151,10 @@ button {
   cursor: pointer;
 }
 
+html,
 body {
-  height: 100vh;
+  height: 100%;
+  overflow: hidden;
   color: var(--fontColor);
   font-family: 'San Francisco';
   background-color: black;
@@ -186,4 +188,9 @@ body {
   flex-wrap: wrap;
   gap: 100px;
   margin-top: 70px;
+}
+
+.fade-in {
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
 }
