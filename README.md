@@ -35,9 +35,9 @@ JavaScript로 One scroll page scoll을 중점 구현했습니다.
 | :---------------------------------------------------: |
 | <img src="asset/images/gif/about.gif" width="800px"/> |
 
-|                      interested                       |
-| :---------------------------------------------------: |
-| <img src="asset/images/gif/index.gif" width="800px"/> |
+|                         interested                         |
+| :--------------------------------------------------------: |
+| <img src="asset/images/gif/interested.gif" width="800px"/> |
 
 <br>
 
