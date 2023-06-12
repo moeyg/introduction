@@ -8,20 +8,21 @@ JavaScript로 One scroll page scoll을 중점 구현했습니다.
 
 # Tools
 
-HTML, CSS, JavaScript
+- HTML,
+- CSS,
+- JavaScript
 
 <br>
 
 # Figma
 
-<center>
 <a href="https://www.figma.com/file/N3U5NPLqnHMTomuxMXokiC/Portfolio---Web-term-project?type=design&node-id=1-3&t=OZZOt0NWANcnyvX5-0">
-<img src="asset/images/figma/figma.png" width="400px">
+<img src="asset/images/figma/figma.png" width="800px">
 </a>
-<br>
-[Figma](https://www.figma.com/file/N3U5NPLqnHMTomuxMXokiC/Portfolio---Web-term-project?type=design&node-id=1-3&t=OZZOt0NWANcnyvX5-0)
-</center>
 
+> 💡 이미지를 클릭하면 Figma 링크로 이동합니다.
+
+<br>
 <br>
 
 # Issue
